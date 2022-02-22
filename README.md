@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 # Github Stats
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanAriass)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass"/>
 <br>
