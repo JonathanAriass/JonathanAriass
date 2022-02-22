@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently taking lessons at EII (Escuela de Ingeniería Informática), second year university student.
 - 📫 How to reach me: 
-  - <a href="mailto:UO283586@uniovi.es"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> UO283586@uniovi.es
+  <a href="mailto:UO283586@uniovi.es"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - ⚡ Fun fact: ...
