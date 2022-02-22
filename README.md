@@ -23,3 +23,10 @@ Here are some ideas to get you started:
   - <a href="https://www.instagram.com/jony__02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 - ⚡ I like learning about tech and enjoy playing videogames (check my Steam profile).
   - <a href="https://steamcommunity.com/id/byJony1/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
+<br>
+---
+
+# Github Stats
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAriass&langs_count=5&theme=tokyonight)]()
