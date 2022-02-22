@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 # Github Stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass"/>
+<img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact"/>
 <br>
