@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/ZF6glRyKq5Kemhlj5t/giphy.gif" width="350" height="225"/>
 </div>
+
 ---
+
 - 🌱 I’m currently taking lessons at EII (Escuela de Ingeniería Informática), second year university student.
 - 📫 How to reach me: 
-  - [![Gmail Badge] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] UO283586@uniovi.es
+  - <a href="mailto:UO283586@uniovi.es"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> UO283586@uniovi.es
 - ⚡ Fun fact: ...
