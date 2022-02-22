@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 # Github Stats
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAriass&langs_count=5&theme=tokyonight)]()
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact)](https://github.com/JonathanAriass/JonathanAriass)
