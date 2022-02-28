@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/ZF6glRyKq5Kemhlj5t/giphy.gif" width="350" height="225"/>
 </div>
 
----
 # About me
 
 - 🌱 I’m currently taking lessons at EII (Escuela de Ingeniería Informática), second year university student.
