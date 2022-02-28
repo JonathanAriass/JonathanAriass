@@ -16,8 +16,6 @@
 
 <br>
 
----
-
 # Github Stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass"/>
