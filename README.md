@@ -17,10 +17,8 @@
 
 # Github Stats
 <br>
-<a>
+<a href="https://github.com/JonathanAriass">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
-</a>
-<a>
   <img align="center" src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
 </a>
 <br>
