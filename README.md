@@ -18,7 +18,7 @@
 # Github Stats
 <br>
 <a href="https://github.com/JonathanAriass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
-  <img align="center" src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
+  <img align="right" src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
 </a>
 <br>
