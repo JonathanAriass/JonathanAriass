@@ -17,6 +17,8 @@
 
 # Github Stats
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
+<a>
+<img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=stars,prs,issues,contribs"/>
 <img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
+</a>
 <br>
