@@ -19,6 +19,6 @@
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
-    <img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&layout=compact&theme=shades-of-purple"/>
+    <img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=JonathanAriass&card_width=250&layout=compact&theme=shades-of-purple"/>
 </p>
 <br>
