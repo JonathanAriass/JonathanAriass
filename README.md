@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan Arias
+# Hi there, I'm Jonathan Arias 👋
 
 ![](https://komarev.com/ghpvc/?username=JonathanAriass&color=blueviolet)
 
@@ -14,6 +14,12 @@
   - <a href="https://www.instagram.com/jony__02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 - ⚡ I like learning about tech and enjoy playing videogames (check my Steam profile).
   - <a href="https://steamcommunity.com/id/byJony1/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />]
 
 <br>
 
