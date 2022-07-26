@@ -31,6 +31,6 @@
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
-    <img src="https://github.com/JonathanAriass/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanAriass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <br>
