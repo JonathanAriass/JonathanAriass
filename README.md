@@ -31,6 +31,6 @@
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JonathanAriass&layout=compact&show_icons=true&theme=shades-of-purple&hide=issues,contribs"/>
-    <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/JonathanAriass/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 <br>
