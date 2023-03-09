@@ -17,12 +17,15 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;" />
+<img align="left" alt="UE" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
 
 
 
