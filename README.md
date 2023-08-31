@@ -27,7 +27,7 @@
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-original-wordmark.svg" style="padding-right:10px;" />
 
 
 <br>
